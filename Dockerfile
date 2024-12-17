@@ -1,3 +1,4 @@
+
 # We need JDK as some of the lessons needs to be able to compile Java code
 FROM docker.io/eclipse-temurin:21-jdk-jammy
 
